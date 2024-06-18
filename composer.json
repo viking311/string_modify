@@ -1,6 +1,7 @@
 {
     "name": "viking311/string_modify",
     "type": "library",
+    "description": "The package contains a collection of classes to work with strings like filters and modificators.",
     "autoload": {
         "psr-4": {
             "Viking311\\StringModify\\": "src/"
@@ -8,7 +9,8 @@
     },
     "authors": [
         {
-            "name": "viking311"
+            "name": "viking311",
+            "email": "viking311@gmail.com"
         }
     ],
     "require": {
