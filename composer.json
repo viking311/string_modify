@@ -1,0 +1,17 @@
+{
+    "name": "viking311/string_modify",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Viking311\\StringModify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viking311"
+        }
+    ],
+    "require": {
+        "php": ">=8.3"
+    }
+}
